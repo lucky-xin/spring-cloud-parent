@@ -10,7 +10,7 @@
 
     <groupId>com.xin.cloud.parent</groupId>
     <artifactId>xin-cloud-parent</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <packaging>pom</packaging>
     <name>${project.artifactId}</name>
     <description>${project.artifactId} spring boot starter project for Spring Boot</description>
@@ -352,7 +352,7 @@
             <dependency>
                 <groupId>com.xin.auto.development</groupId>
                 <artifactId>auto-development-boot-starter</artifactId>
-                <version>1.1.0</version>
+                <version>1.2.0</version>
             </dependency>
             <!--jasypt配置文件加解密-->
             <dependency>
